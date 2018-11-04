@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item
+    android:id="@+id/homebut"
+    android:title="Home"
+    android:icon="@drawable/ic_home_black_24dp"
+    android:iconTint="@color/OtherBlue"/>
+
+    <item
+        android:id="@+id/AddMedbut"
+        android:title="Home"
+        android:icon="@drawable/addmedimageview"
+        android:iconTint="@color/OtherBlue"/>
+
+    <item
+        android:id="@+id/ViewApptbut"
+        android:title="Home"
+        android:icon="@drawable/ic_date_range_black_24dp"
+        android:iconTint="@color/OtherBlue"/>
+
+    <item
+        android:id="@+id/Forumbut"
+        android:title="Home"
+        android:icon="@drawable/forumimageview"
+        android:iconTint="@color/OtherBlue"/>
+
+
+</menu>
